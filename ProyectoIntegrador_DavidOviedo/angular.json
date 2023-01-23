@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "ProyectoIntegrador_DavidOviedo/ProyectoIntegrador_DavidOviedo/node_modules/bootstrap/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "ProyectoIntegrador_DavidOviedo/ProyectoIntegrador_DavidOviedo/node_modules/bootstrap/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
